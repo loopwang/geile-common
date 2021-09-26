@@ -1,4 +1,4 @@
-# sa-common
+# geile-common
 
 ### 介绍
 JS常用方法，来自于前端多年经验积累
@@ -8,7 +8,7 @@ JS常用方法，来自于前端多年经验积累
 
 ### 安装教程
 
-1. npm install --save sa-common
+1. npm install --save geile-common
 2. npm run serve
 
 ### 使用说明
@@ -117,8 +117,6 @@ JS常用方法，来自于前端多年经验积累
 ### 我的相关
 
 - ***使用*** _Readme\_XXX.md_ 来支持不同的语言，`例如` _Readme\_en.md, Readme\_zh.md_
-- 我的码云：[https://gitee.com/saqqdy](https://gitee.com/saqqdy)
-- 我的Github：[https://github.com/saqqdy](https://github.com/saqqdy)
-- 我的npm：[https://npmjs.com/~saqqdy](https://npmjs.com/~saqqdy)
-- 我的个人网站 [http://www.saqqdy.com](http://www.saqqdy.com)
+- 我的Github：[https://github.com/loopwang](https://github.com/loopwang/geile-common)(来自原有项目开发者saq)
+
 
