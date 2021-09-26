@@ -1,0 +1,29 @@
+{
+  "name": "geile-common",
+  "version": "1.0.55",
+  "description": "一些常用的JS方法",
+  "main": "index.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqqdy/common.git"
+  },
+  "keywords": [
+    "common",
+    "saqqdy"
+  ],
+  "author": "313359238@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqqdy/common/issues"
+  },
+  "homepage": "https://github.com/saqqdy/common#readme",
+  "__npminstall_done": "Fri Mar 05 2021 10:31:58 GMT+0800 (GMT+08:00)",
+  "_from": "sa-common@1.0.55",
+  "_resolved": "https://registry.npm.taobao.org/sa-common/download/sa-common-1.0.55.tgz"
+}
